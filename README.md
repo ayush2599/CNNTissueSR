@@ -1,6 +1,8 @@
 # CNNTissueSR
 Super Resolution of Tissue Microscopic Images
 
+Project presentation is attached as ```Convolutional Neuron Network Based Microscopic Image Super-Resolution.pptx```
+
 To run/test this algorithm, please download the repository and unzip all the zip files to the same directory. Make sure the file names are unchanged. Then, line-by-line/source the ```Main.R``` file from this repository. For the first time this program is running on some computers, few packages may be installed automatically. In this process, R may reboot several times by itself. If Nvidia GPU can be ultilized for tensor calculation, please change ```Setup.R``` file first block
 
 ```
